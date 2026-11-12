@@ -1,6 +1,6 @@
 # BooKlip Privacy Policy
 
-**Last updated: November 11, 2026**
+**Last updated: November 12, 2026**
 
 BooKlip is a macOS app for collecting and organizing clipboard items and other content. This policy explains what information the app processes, where it is stored, and when it may be shared with other services.
 
@@ -30,7 +30,7 @@ Voice transcription uses Apple’s Speech framework. Depending on the recognizer
 
 ### Link icons
 
-To display a website icon for a link, BooKlip may request a favicon from the website or from Google’s favicon service. Those requests can reveal the website domain to the service receiving the request. This applies to the icon lookup, not to the clipboard history as a whole.
+BooKlip does not make network requests to fetch website favicons. Link previews use titles and system icons generated locally by the app.
 
 ### AirDrop
 
