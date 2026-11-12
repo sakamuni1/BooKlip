@@ -1,8 +1,7 @@
-Depending on the features you use and the permissions you grant, BooKlip may process:
+# Thank You for Downloading BooKlip
 
-Clipboard content: Text, links, images, and other content when clipboard monitoring is enabled, or when you use a paste or import action in the app.
-Downloads folder information: The app checks the Downloads folder for new files and may add file entries to the current tab. This can involve file names, paths, sizes, and modification dates.
-Voice memo recordings and transcripts: Audio captured when you start a voice memo, and its transcript when speech recognition is used.
-App preferences and organization data: Settings, tabs, item labels, and related information needed to operate the app.
-Deleted-item recovery data: Local copies retained to support restoring items you deleted in the app.
-https://github.com/sakamuni1/BooKlip
+Thank you for downloading BooKlip and giving it a try.
+
+I’ll continue improving BooKlip with future updates. If you have feedback or run into an issue, please share it with me on the [BooKlip GitHub page](https://github.com/sakamuni1/BooKlip). I’ll use your feedback to fix problems and make the app better.
+
+Thanks for being here from the beginning.
