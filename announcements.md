@@ -5,3 +5,4 @@ Downloads folder information: The app checks the Downloads folder for new files 
 Voice memo recordings and transcripts: Audio captured when you start a voice memo, and its transcript when speech recognition is used.
 App preferences and organization data: Settings, tabs, item labels, and related information needed to operate the app.
 Deleted-item recovery data: Local copies retained to support restoring items you deleted in the app.
+https://github.com/sakamuni1/BooKlip
