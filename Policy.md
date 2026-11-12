@@ -66,3 +66,7 @@ This policy may be updated when BooKlip’s features or data practices change. T
 ## Contact
 
 For questions about this policy or BooKlip’s privacy practices, contact the developer through the project’s support channel or issue tracker.
+
+## Announcements
+
+When BooKlip launches or returns to the foreground, it may connect to GitHub to check for a public announcement. This request does not include clipboard content, files, voice recordings, or account information. GitHub may process connection information, such as your IP address and request time, under its own privacy statement. When you click a notice, BooKlip opens the announcement page in your default browser.
